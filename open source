@@ -37,8 +37,7 @@
     “ babel-preset-es2015 ”： “ 6.xx ”，
     “ babel-preset-es2015-loose ”： “ 7.0.0 ”，
     “ babel-preset-stage-1 ”： “ 6.xx ”，
-    “ eslint ”： “ 2.8.0 ”，
-    “伊斯坦布尔”： “ 0.4.0 ”
+    “ eslint ”： “ 2.8.0 ”
   }，
   “关键字”：[]，
   “存储库”：{
