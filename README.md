@@ -1,2 +1,3 @@
 # TEChain
-TEChain是一个去中心化的专属于纺织行业生态的区块链，其核心是基于区块链去中心化、去信任中介的、不可篡改的特点，建立一个可信任的、更高效率的纺织产业的全流程的服务生态。
+TEChain is a centralization of the textile industry ecological block chain, its core is based on the block chain to centralization, to trust intermediary, not tampering characteristics, to establish a trustworthy and more efficient textile industry whole process of service ecology.
+  
